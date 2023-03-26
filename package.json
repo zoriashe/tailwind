@@ -1,0 +1,19 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "1st tailwind practice project",
+  "main": "src/js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoriashe/tailwind.git"
+  },
+  "author": "zoriashe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zoriashe/tailwind/issues"
+  },
+  "homepage": "https://github.com/zoriashe/tailwind#readme"
+}
